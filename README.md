@@ -246,7 +246,3 @@ e-commerce-chat-ai/
 ├── pyproject.toml
 └── README.md
 ```
-
-## Autor
-
-Proyecto académico - Universidad EAFIT
